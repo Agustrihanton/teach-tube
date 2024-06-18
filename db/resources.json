@@ -1,29 +1,94 @@
 {
-"count": 3,
+"count": 8,
 "data": [
     {
         "name": "1. Apa itu Tailwind CSS? | Belajar Tailwind CSS",
         "url": "https://www.youtube.com/watch?v=z3slaXqmkT0",
         "description": "Mulai belajar framework TailwindCSS versi 3",
         "categories": [
-            "Programming"
+            "Frontend Development",
+            "CSS Framework"
         ],
         "keywords": [
             "tailwindcss"
         ]
     },
     {
+        "name": "Bagaimana cara mengukur impact kita sebagai software engineer?",
+        "categories": [
+            "Frontend Development",
+            "Backend Development",
+            "Sharing Experience"
+        ],
+        "description": "Bagaimana cara mengukur impact kita sebagai software engineer?",
+        "url": "https://www.youtube.com/watch?v=Od6JdzpYsAQ"
+    },
+    {
+        "name": "Bagaimana Menguasai Banyak Bahasa Pemrograman",
+        "categories": [
+            "Programming Languages",
+            "Sharing Experience"
+        ],
+        "description": "Banyak yang bertanya ke saya bagaimana bisa menguasai banyak bahasa pemrograman. Di vlog kali ini saya coba bahas",
+        "url": "https://www.youtube.com/watch?v=cihCrD7Nq9M"
+    },
+    {
         "name": "Belajar Dasar Pemrograman Javascript 1 Jam",
         "categories": [
-            "Programming"
+            "Programming Languages",
+            "JavaScript"
         ],
         "description": "Belajar javascript dasar bahasa pemrograman untuk pemula di tahun 2023 dari 0. Mengenal fundamental program menggunakan JS (javascript) untuk siapa saja yang ingin mencoba menjadi seorang web developer atau programmer di Indonesia.Tutorial cukup lengkap dan semoga cukup mudah dipahami oleh kalian semua.",
         "url": "https://www.youtube.com/watch?v=mD6uSGSjgr4"
     },
     {
+        "name": "sebuah koleksi UI component buat project React lo!",
+        "url": "https://www.youtube.com/watch?v=GD9_M6jSM_o",
+        "description": "apa gak capek bikin apa-apa sendiri mulu ehe",
+        "keywords": [
+            "shadcn-ui",
+            "shadcn ui"
+        ],
+        "categories": [
+            "UI Kit",
+            "Web Development",
+            "Frontend Development"
+        ]
+    },
+    {
+        "name": "Tips untuk jago struktur data dan algoritma",
+        "categories": [
+            "Sharing Experience",
+            "Data Structure and Algorithm",
+            "Web Development"
+        ],
+        "keywords": [
+            "algorithm",
+            "data structure",
+            "tips"
+        ],
+        "description": "Kali ini kita akan melakukan sesi tanya dan jawab dari pertanyaan yang dilontarkan dari teman-temin via webinar",
+        "url": "https://www.youtube.com/watch?v=t5Hpj5pRvgc"
+    },
+    {
+        "name": "Tutorial HTML Dasar (Bahasa Indonesia)",
+        "categories": [
+            "Frontend Development",
+            "Web Development"
+        ],
+        "keywords": [
+            "html",
+            "html5"
+        ],
+        "description": "Hi guys, di video kali ini, kita akan bahas tentang materi HTML Dasar. Ini adalah materi awal untuk teman-teman yang mau belajar menjadi Web Developer",
+        "url": "https://www.youtube.com/watch?v=hMDJyb7VkYw"
+    },
+    {
         "name": "Tutorial TypeScript Dasar (Bahasa Indonesia)",
         "categories": [
-            "Programming"
+            "Programming Languages",
+            "TypeScript",
+            "Web Development"
         ],
         "keywords": [
             "typescript",

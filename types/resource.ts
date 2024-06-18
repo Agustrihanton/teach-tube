@@ -6,5 +6,5 @@ export type Resource = {
   categories: Array<Category>;
   description: string;
   url: YouTubeUrl;
-  keywords?: Array<string>;
+  keywords: Array<string>;
 };

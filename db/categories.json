@@ -1,13 +1,25 @@
 {
-"count": 10,
+"count": 16,
 "data": [
     {
         "name": "Backend Development",
         "slug": "backend-development"
     },
     {
+        "name": "Core Web Vitals",
+        "slug": "core-web-vitals"
+    },
+    {
+        "name": "CSS",
+        "slug": "css"
+    },
+    {
         "name": "CSS Framework",
         "slug": "css-framework"
+    },
+    {
+        "name": "CSS Trends",
+        "slug": "css-trends"
     },
     {
         "name": "Data Structure and Algorithm",
@@ -22,8 +34,20 @@
         "slug": "javascript"
     },
     {
+        "name": "Next.js",
+        "slug": "next-js"
+    },
+    {
+        "name": "Podcast",
+        "slug": "podcast"
+    },
+    {
         "name": "Programming Languages",
         "slug": "programming-languages"
+    },
+    {
+        "name": "Project Based Learning (PBL)",
+        "slug": "project-based-learning-pbl-"
     },
     {
         "name": "Sharing Experience",

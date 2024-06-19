@@ -1,5 +1,5 @@
 {
-"count": 8,
+"count": 22,
 "data": [
     {
         "name": "1. Apa itu Tailwind CSS? | Belajar Tailwind CSS",
@@ -12,6 +12,21 @@
         "keywords": [
             "tailwindcss"
         ]
+    },
+    {
+        "name": "A deep dive into optimizing LCP",
+        "categories": [
+            "Core Web Vitals",
+            "Web Development",
+            "Frontend Development"
+        ],
+        "keywords": [
+            "optimize Web",
+            "lcp",
+            "tips"
+        ],
+        "description": "There is no shortage of advice on the web about improving page load performance, and yet, of the three Core Web Vitals, Largest Contentful Paint (LCP) is still the hardest metric for most sites to consistently meet the recommended 'good' threshold. ",
+        "url": "https://www.youtube.com/watch?v=fWoI9DXmpdk"
     },
     {
         "name": "Bagaimana cara mengukur impact kita sebagai software engineer?",
@@ -41,6 +56,17 @@
         "url": "https://www.youtube.com/watch?v=cihCrD7Nq9M"
     },
     {
+        "name": "Belajar CSS untuk pemula - intro",
+        "categories": [
+            "CSS"
+        ],
+        "keywords": [
+            "css"
+        ],
+        "description": "Belajar CSS untuk pemula",
+        "url": "https://www.youtube.com/watch?v=rbTEOOucUOs&list=PLCZlgfAG0GXAvVZ1Wb1D7HVAPNJGk4f-G"
+    },
+    {
         "name": "Belajar Dasar Pemrograman Javascript 1 Jam",
         "categories": [
             "Programming Languages",
@@ -52,6 +78,128 @@
         ],
         "description": "Belajar javascript dasar bahasa pemrograman untuk pemula di tahun 2023 dari 0. Mengenal fundamental program menggunakan JS (javascript) untuk siapa saja yang ingin mencoba menjadi seorang web developer atau programmer di Indonesia.Tutorial cukup lengkap dan semoga cukup mudah dipahami oleh kalian semua.",
         "url": "https://www.youtube.com/watch?v=mD6uSGSjgr4"
+    },
+    {
+        "name": "Build a Complete E-Commerce Shop with Next.js 14, Tailwind, React | Full Course 2024",
+        "categories": [
+            "Project Based Learning (PBL)",
+            "Next.js",
+            "CSS Framework"
+        ],
+        "keywords": [
+            "ecommerce",
+            "fullstack"
+        ],
+        "description": "In this single video, we're building an entire, modern E-Commerce Store for custom phone cases from beginning to end.",
+        "url": "https://www.youtube.com/watch?v=Od6JdzpYsAQ"
+    },
+    {
+        "name": "Build a Finance SaaS Platform With Nextjs, React, Honojs with CSV Upload (2024)",
+        "categories": [
+            "Project Based Learning (PBL)",
+            "Next.js",
+            "Frontend Development"
+        ],
+        "keywords": [
+            "sass",
+            "fullstack"
+        ],
+        "description": "In this 11 hour tutorial, you will learn how to create your very own Finance SaaS Platform with ability to track your income and expenses, categorize transactions and assign them to specific accounts, as well as how to import transactions using a CSV file, connect to your bank account using Plaid, and monetize this product using Lemon Squeezy.",
+        "url": "https://www.youtube.com/watch?v=N_uNKAus0II"
+    },
+    {
+        "name": "Build Clean UI on Nextjs using MagicUI",
+        "categories": [
+            "Frontend Development",
+            "UI Kit"
+        ],
+        "keywords": [
+            "css",
+            "magic ui"
+        ],
+        "description": "In this video, I share with you MagicUI a clean and aesthetically pleasing UI library that I've started to use in my applications. Check it out and let me know what you think",
+        "url": "https://www.youtube.com/watch?v=qh3NGpYRG3I"
+    },
+    {
+        "name": "CSS GRID | #1 Apa itu CSS GRID?",
+        "categories": [
+            "CSS"
+        ],
+        "keywords": [
+            "grid",
+            "css"
+        ],
+        "description": "Kali ini kita akan memulai seri baru mengenai CSS GRID, dan seperti biasa kita akan awali dengan pembahasan mengenai definisi, konsep dan alasan kenapa kita harus mempelajari CSS Grid",
+        "url": "https://www.youtube.com/watch?v=qCMLP6GtyBc&list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw"
+    },
+    {
+        "name": "Internationalization in NextJs 14 with Next-Intl | i18n",
+        "categories": [
+            "Next.js"
+        ],
+        "keywords": [
+            "i18n",
+            "locale",
+            "multi language",
+            "Internationalization"
+        ],
+        "description": "In this video, we will explore the implementation of next-intl within the Next.js app router using server components. Additionally, we will demonstrate the creation of a select button in the navbar, allowing users to switch between the English and Indonesian languages.",
+        "url": "https://www.youtube.com/watch?v=uZQ5d2bRMO4"
+    },
+    {
+        "name": "NextJS APP Router | i18n Internationalization (i18next - next-intl) | Multiple languages (idioms)",
+        "categories": [
+            "Next.js"
+        ],
+        "keywords": [
+            "i18n",
+            "locale",
+            "multi language",
+            "Internationalization"
+        ],
+        "description": "If you have been searching youtube for tutorials on i18next (Internationalization) chances are you came across my other tutorial on the same topic.",
+        "url": "https://www.youtube.com/watch?v=fKaJYydim3Q"
+    },
+    {
+        "name": "Ngobrolin Core Web Vitals - Ngobrolin WEB",
+        "categories": [
+            "Frontend Development",
+            "Core Web Vitals",
+            "Podcast"
+        ],
+        "keywords": [
+            "web performance"
+        ],
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.",
+        "url": "https://www.youtube.com/watch?v=5KiXPIj5Kes"
+    },
+    {
+        "name": "React Query Tutorial V5 - Full Tanstack Query Tutorial for Beginners",
+        "url": "https://www.youtube.com/watch?v=3e-higRXoaM",
+        "description": "In this tutorial, you will learn everything related to TanStack Query, formerly known as React Query. After watching this video, I guarantee that you will understand every concept of this library and will be able to confidently start working with it.",
+        "keywords": [
+            "tutorials",
+            "react-query"
+        ],
+        "categories": [
+            "Next.js",
+            "Web Development",
+            "Frontend Development"
+        ]
+    },
+    {
+        "name": "SAAS AI Chatbot - Email Marketing, Nextjs15, Clerk, Neon, Uploadcare, Cloudways, Bun, Stripe, Pusher",
+        "url": "https://www.youtube.com/watch?v=9pCsyBlpmrc",
+        "description": "In Prodigies University we break down everything for the next videos in live deep dive sessions! See the whole process from start to finish:",
+        "keywords": [
+            "sass",
+            "fullstack"
+        ],
+        "categories": [
+            "Next.js",
+            "Web Development",
+            "Frontend Development"
+        ]
     },
     {
         "name": "sebuah koleksi UI component buat project React lo!",
@@ -66,6 +214,48 @@
             "Web Development",
             "Frontend Development"
         ]
+    },
+    {
+        "name": "SWR React Tutorial - Complete Course for Beginners",
+        "url": "https://www.youtube.com/watch?v=qURCyd3ycfw",
+        "description": "This comprehensive course will guide you through the easiest and most modern approach to fetching data and managing server state using SWR (stale while revalidate) in React or Next.js projects. As recommended by Vercel for Next.js projects, SWR is an ideal choice. If you're solely using React, you can still follow along seamlessly.",
+        "keywords": [
+            "tutorials",
+            "swr"
+        ],
+        "categories": [
+            "Next.js",
+            "Web Development",
+            "Frontend Development"
+        ]
+    },
+    {
+        "name": "The ultimate guide to web performance",
+        "categories": [
+            "Core Web Vitals",
+            "Web Development",
+            "Frontend Development"
+        ],
+        "keywords": [
+            "optimize Web",
+            "lcp",
+            "tips"
+        ],
+        "description": "Learn how to analyze and optimize the performance of any website. In this tutorial, we explore tips and tricks to build faster UIs that are ideal for search engine optimization. ",
+        "url": "https://www.youtube.com/watch?v=0fONene3OIA"
+    },
+    {
+        "name": "This UI component library is mind-blowing",
+        "categories": [
+            "Frontend Development",
+            "UI Kit",
+            "CSS Trends"
+        ],
+        "keywords": [
+            "acternity ui"
+        ],
+        "description": "Let's explore a free open-source UI library that replicates advanced animations found on the landing pages of top-tier startups. Learn how to code advanced components in React and other JavaScript frameworks. ",
+        "url": "https://www.youtube.com/watch?v=RPa3_AD1_Vs"
     },
     {
         "name": "Tips untuk jago struktur data dan algoritma",

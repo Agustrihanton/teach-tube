@@ -59,4 +59,12 @@ export const resources: Resource[] = [
       "In this video, I share with you MagicUI a clean and aesthetically pleasing UI library that I've started to use in my applications. Check it out and let me know what you think",
     url: "https://www.youtube.com/watch?v=qh3NGpYRG3I",
   },
+  {
+    name: "Belajar CSS untuk pemula - intro",
+    categories: ["CSS"],
+    keywords: ["css"],
+    description: "Belajar CSS untuk pemula",
+    url:
+      "https://www.youtube.com/watch?v=rbTEOOucUOs&list=PLCZlgfAG0GXAvVZ1Wb1D7HVAPNJGk4f-G",
+  },
 ];

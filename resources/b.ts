@@ -36,7 +36,7 @@ export const resources: Resource[] = [
     keywords: ["ecommerce", "fullstack"],
     description:
       "In this single video, we're building an entire, modern E-Commerce Store for custom phone cases from beginning to end.",
-    url: "https://www.youtube.com/watch?v=Od6JdzpYsAQ",
+    url: "https://www.youtube.com/watch?v=SG82Aqcaaa0",
   },
   {
     name:

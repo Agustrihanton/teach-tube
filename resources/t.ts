@@ -29,4 +29,20 @@ export const resources: Resource[] = [
       "Kali ini kita akan melakukan sesi tanya dan jawab dari pertanyaan yang dilontarkan dari teman-temin via webinar",
     url: "https://www.youtube.com/watch?v=t5Hpj5pRvgc",
   },
+  {
+    name: "The ultimate guide to web performance",
+    categories: ["Core Web Vitals", "Web Development", "Frontend Development"],
+    keywords: ["optimize Web", "lcp", "tips"],
+    description:
+      "Learn how to analyze and optimize the performance of any website. In this tutorial, we explore tips and tricks to build faster UIs that are ideal for search engine optimization. ",
+    url: "https://www.youtube.com/watch?v=0fONene3OIA",
+  },
+  {
+    name: "This UI component library is mind-blowing",
+    categories: ["Frontend Development", "UI Kit", "CSS Trends"],
+    keywords: ["acternity ui"],
+    description:
+      "Let's explore a free open-source UI library that replicates advanced animations found on the landing pages of top-tier startups. Learn how to code advanced components in React and other JavaScript frameworks. ",
+    url: "https://www.youtube.com/watch?v=RPa3_AD1_Vs",
+  },
 ];

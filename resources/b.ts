@@ -29,4 +29,34 @@ export const resources: Resource[] = [
       "Bagaimana cara mengukur impact kita sebagai software engineer?",
     url: "https://www.youtube.com/watch?v=Od6JdzpYsAQ",
   },
+  {
+    name:
+      "Build a Complete E-Commerce Shop with Next.js 14, Tailwind, React | Full Course 2024",
+    categories: ["Project Based Learning (PBL)", "Next.js", "CSS Framework"],
+    keywords: ["ecommerce", "fullstack"],
+    description:
+      "In this single video, we're building an entire, modern E-Commerce Store for custom phone cases from beginning to end.",
+    url: "https://www.youtube.com/watch?v=Od6JdzpYsAQ",
+  },
+  {
+    name:
+      "Build a Finance SaaS Platform With Nextjs, React, Honojs with CSV Upload (2024)",
+    categories: [
+      "Project Based Learning (PBL)",
+      "Next.js",
+      "Frontend Development",
+    ],
+    keywords: ["sass", "fullstack"],
+    description:
+      "In this 11 hour tutorial, you will learn how to create your very own Finance SaaS Platform with ability to track your income and expenses, categorize transactions and assign them to specific accounts, as well as how to import transactions using a CSV file, connect to your bank account using Plaid, and monetize this product using Lemon Squeezy.",
+    url: "https://www.youtube.com/watch?v=N_uNKAus0II",
+  },
+  {
+    name: "Build Clean UI on Nextjs using MagicUI",
+    categories: ["Frontend Development", "UI Kit"],
+    keywords: ["css", "magic ui"],
+    description:
+      "In this video, I share with you MagicUI a clean and aesthetically pleasing UI library that I've started to use in my applications. Check it out and let me know what you think",
+    url: "https://www.youtube.com/watch?v=qh3NGpYRG3I",
+  },
 ];

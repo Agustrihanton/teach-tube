@@ -1,19 +1,19 @@
-# Berkontribusi
+# Contributing
 
-Semua orang dipersilakan untuk berkolaborasi dalam proyek ini, tetapi harap mempertimbangkan hal-hal berikut:
+Everyone is welcome to collaborate on this project, but please consider the following:
 
-- Sumber daya harus sesuai dengan tujuan proyek
-- Sumber daya tidak boleh duplikat; pencarian teks di file README seharusnya cukup untuk menemukan jawaban ini
-- Daftar sumber daya ditulis dalam TypeScript; jika Anda memerlukan bantuan terkait hal ini, silakan buka issue dengan informasi sumber daya
+- Resources must be relevant to the project's goals.
+- Resources should not be duplicated; a text search in the README file should be sufficient to find this answer.
+- The list of resources is written in TypeScript; if you need help with this, please open an issue with the resource information.
 
-## Menambahkan sumber daya
+## Adding Resources
 
-- Sumber daya diorganisir secara alfabetis dalam file terpisah di folder `resources`; gunakan properti `name` sumber daya untuk menentukan file mana yang menjadi tempatnya
-- Dalam file tersebut, jaga urutan alfabetis, lagi-lagi berdasarkan properti `name` sumber daya
+- Resources are organized alphabetically in separate files in the `resources` folder; use the resource's `name` property to determine the appropriate file.
+- In that file, maintain alphabetical order, again based on the resource's `name` property.
 
-### Format Sumber Daya
+### Resource Format
 
-Setiap sumber daya dimasukkan ke dalam sebuah objek, seperti berikut:
+Each resource is entered into an object, as follows:
 
 ```typescript
 // resources/f.ts
@@ -27,38 +27,35 @@ Setiap sumber daya dimasukkan ke dalam sebuah objek, seperti berikut:
   },
 ```
 
-Perhatikan bahwa:
+Note that:
 
-- `name` adalah **string** dan **wajib**.
-- `description` adalah **string** dan **wajib**.
-- `categories` adalah **array string** dan **wajib**.
-- `url` adalah **url** dari youtube dan **wajib**.
-- `keywords` adalah **array string** dan **wajib**.
-  - Sebuah sumber daya dapat masuk ke maksimum 3 kategori dan minimum 1 kategori.
-  - gunakan `keywords` untuk meningkatkan keterlihatan dalam hasil pencarian
-  - Kategori yang tersedia terdaftar dalam `types/category.ts`.
-  - Jika kategori yang Anda butuhkan tidak terdaftar, Anda dapat menambahkannya dan menjelaskan dalam PR mengapa itu diperlukan.
-  - Jika editor Anda mendukung TypeScript, seharusnya memberikan kategori yang tersedia saat Anda mengetik.
-- `url` adalah **string** dan wajib.
-  - Harus dimulai dengan `http://` atau `https://`.
-- `keywords` adalah **array string** dan **opsional**, digunakan pada fitur pencarian di situs web.
+- `name` is a **string** and **required**.
+- `description` is a **string** and **required**.
+- `categories` is an **array of strings** and **required**.
+- `url` is the **YouTube URL** and **required**.
+- `keywords` is an **array of strings** and **optional**.
+  - A resource can belong to a maximum of 3 categories and a minimum of 1 category.
+  - Use `keywords` to enhance visibility in search results.
+  - Available categories are listed in `types/category.ts`.
+  - If the category you need is not listed, you can add it and explain in the PR why it is needed.
+  - If your editor supports TypeScript, it should suggest available categories as you type.
 
-## Mengedit sumber daya
+## Editing Resources
 
-Jika Anda menemukan bahwa sumber daya yang ada dapat ditingkatkan dengan beberapa pengeditan, jangan ragu untuk melakukan modifikasi.
+If you find that an existing resource can be improved with some edits, feel free to make modifications.
 
-## Kontribusi lainnya
+## Other Contributions
 
-Kontribusi yang tidak terkait dengan sumber daya juga diterima, tetapi harap buka issue yang menjelaskan perubahan yang Anda pikirkan sebelum membuat pull request.
+Contributions not related to resources are also accepted, but please open an issue explaining the changes you have in mind before making a pull request.
 
-## Memperbarui README dan DB
+## Updating README and DB
 
-Harap hanya mengubah file di folders `resources`, karena `README` dan `DB` akan saya update secara manual saat melakukan merge request.
+Please only change the files in the `resources` folder, as I will manually update the `README` and `DB` when merging requests.
 
-## Memerlukan bantuan?
+## Need Help?
 
-Daftar sumber daya dibuat dalam TypeScript, dan jika Anda tidak dapat membuat kontribusi untuk ini atau alasan lainnya, jangan ragu untuk membuka issue yang menjelaskan situasi Anda, sehingga pengembang lain dapat membantu Anda memasukkan sumber daya Anda ke dalam daftar.
+The list of resources is created in TypeScript, and if you are unable to contribute for this or any other reason, feel free to open an issue explaining your situation, so other developers can help you add your resource to the list.
 
 ---
 
-## Terima kasih telah berkontribusi
+## Thank you for contributing

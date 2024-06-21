@@ -34,9 +34,10 @@ function createRow(nodes) {
             const { name, description = '', url, keywords = [] } = resource
 
             const thumbnails = getThumbnails(url); 
-            const truncatedName = truncate({
+          
+            const truncatedName= truncate({
                 text: name,
-                limit: 70,
+                limit: 40,
             })
             const truncatedDescription = truncate({
                 text: description,

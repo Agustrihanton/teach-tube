@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "The API for the resources listed on Youtube Resources.",
   "scripts": {
-    "update-db": "ts-node utils/db/update-db.js"
+    "update-db": "ts-node utils/db/update-db.js",
+    "update-readme": "ts-node utils/readme/update-readme.js"
 },
   "dependencies": {
     "@types/node": "^18.19.35",

@@ -41,7 +41,7 @@ function createRow(nodes) {
             })
             const truncatedDescription = truncate({
                 text: description,
-                limit: 100,
+                limit: 60,
             })
             const truncatedKeywords = truncate({
                 text: keywords.join(', '),

@@ -1,5 +1,5 @@
 {
-"count": 16,
+"count": 17,
 "data": [
     {
         "name": "Backend Development",
@@ -28,6 +28,10 @@
     {
         "name": "Frontend Development",
         "slug": "frontend-development"
+    },
+    {
+        "name": "Headless CMS",
+        "slug": "headless-cms"
     },
     {
         "name": "JavaScript",

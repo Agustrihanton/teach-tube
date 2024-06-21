@@ -1,5 +1,5 @@
 {
-"count": 22,
+"count": 32,
 "data": [
     {
         "name": "1. Apa itu Tailwind CSS? | Belajar Tailwind CSS",
@@ -27,6 +27,21 @@
         ],
         "description": "There is no shortage of advice on the web about improving page load performance, and yet, of the three Core Web Vitals, Largest Contentful Paint (LCP) is still the hardest metric for most sites to consistently meet the recommended 'good' threshold. ",
         "url": "https://www.youtube.com/watch?v=fWoI9DXmpdk"
+    },
+    {
+        "name": "Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn/ui",
+        "categories": [
+            "Next.js",
+            "Frontend Development",
+            "Project Based Learning (PBL)"
+        ],
+        "keywords": [
+            "shadcn ui",
+            "fullstack",
+            "recharts"
+        ],
+        "description": "In this video, we will build a dashboard interface from scratch.",
+        "url": "https://www.youtube.com/watch?v=hhudoSMM0yU"
     },
     {
         "name": "Bagaimana cara mengukur impact kita sebagai software engineer?",
@@ -108,6 +123,19 @@
         "url": "https://www.youtube.com/watch?v=N_uNKAus0II"
     },
     {
+        "name": "Build and Deploy a Saas Podcast Platform in Next.js",
+        "categories": [
+            "Project Based Learning (PBL)",
+            "Frontend Development"
+        ],
+        "keywords": [
+            "css",
+            "fullstack"
+        ],
+        "description": "Build a unique Software-as-a-Service app with AI-powered features like text-to-multiple-voices functionality and AI-generated images with Next.js 14 and Convex.",
+        "url": "https://www.youtube.com/watch?v=zfAb95tJvZQ"
+    },
+    {
         "name": "Build Clean UI on Nextjs using MagicUI",
         "categories": [
             "Frontend Development",
@@ -119,6 +147,17 @@
         ],
         "description": "In this video, I share with you MagicUI a clean and aesthetically pleasing UI library that I've started to use in my applications. Check it out and let me know what you think",
         "url": "https://www.youtube.com/watch?v=qh3NGpYRG3I"
+    },
+    {
+        "name": "Content Platforms Explained in 100 Seconds // Build your own with Sanity",
+        "categories": [
+            "Headless CMS"
+        ],
+        "keywords": [
+            "cms"
+        ],
+        "description": "Sanity.io https://bit.ly/39lJ553 is the platform for structured content. The Content Lake, a real-time document store, gives you complete access and control over your content at any time and anywhere:",
+        "url": "https://www.youtube.com/watch?v=c_8cplBi_gE&t=349s"
     },
     {
         "name": "CSS GRID | #1 Apa itu CSS GRID?",
@@ -133,6 +172,29 @@
         "url": "https://www.youtube.com/watch?v=qCMLP6GtyBc&list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw"
     },
     {
+        "name": "Data Structures & Algorithms #1 - What Are Data Structures?",
+        "categories": [
+            "Data Structure and Algorithm"
+        ],
+        "keywords": [
+            "DSA",
+            "coding dojo"
+        ],
+        "description": "Data structures and algorithms tutorial #1 - let's go!",
+        "url": "https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H"
+    },
+    {
+        "name": "Inggriani Liem (Bu Inge) - Computational Thinking | BukaTalks",
+        "categories": [
+            "Sharing Experience"
+        ],
+        "keywords": [
+            "computational thinking"
+        ],
+        "description": "Computational Thinking adalah sebuah pendekatan dalam proses pembelajaran yang memiliki peran penting dalam pengembangan aplikasi komputer. ",
+        "url": "https://www.youtube.com/watch?v=_6D0ks7wvtI"
+    },
+    {
         "name": "Internationalization in NextJs 14 with Next-Intl | i18n",
         "categories": [
             "Next.js"
@@ -145,6 +207,32 @@
         ],
         "description": "In this video, we will explore the implementation of next-intl within the Next.js app router using server components. Additionally, we will demonstrate the creation of a select button in the navbar, allowing users to switch between the English and Indonesian languages.",
         "url": "https://www.youtube.com/watch?v=uZQ5d2bRMO4"
+    },
+    {
+        "name": "Learn Drizzle In 60 Minutes",
+        "description": "Drizzle is a relatively new database ORM that aims to solve many of the problems with existing ORMs by being more flexible and performant",
+        "keywords": [
+            "drizzle",
+            "orm"
+        ],
+        "categories": [
+            "Web Development",
+            "JavaScript"
+        ],
+        "url": "https://www.youtube.com/watch?v=7-NZ0MlPpJA"
+    },
+    {
+        "name": "Learn Prisma In 60 Minutes",
+        "description": "Prisma is an incredibly popular ORM and for good reason. It is feature rich, type safe, and built on modern JavaScript concepts",
+        "keywords": [
+            "prisma",
+            "orm"
+        ],
+        "categories": [
+            "Web Development",
+            "JavaScript"
+        ],
+        "url": "https://www.youtube.com/watch?v=RebA5J-rlwg"
     },
     {
         "name": "NextJS APP Router | i18n Internationalization (i18next - next-intl) | Multiple languages (idioms)",
@@ -172,6 +260,18 @@
         ],
         "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.",
         "url": "https://www.youtube.com/watch?v=5KiXPIj5Kes"
+    },
+    {
+        "name": "Portofolio yang Bagus untuk Programmer",
+        "categories": [
+            "Web Development",
+            "Sharing Experience"
+        ],
+        "keywords": [
+            "portofolio"
+        ],
+        "description": "Portofolio yang Bagus untuk Programmer",
+        "url": "https://www.youtube.com/watch?v=fk5XDky9C0c"
     },
     {
         "name": "React Query Tutorial V5 - Full Tanstack Query Tutorial for Beginners",
@@ -213,6 +313,18 @@
             "UI Kit",
             "Web Development",
             "Frontend Development"
+        ]
+    },
+    {
+        "name": "Sharing Session Experience: 4 Tahun Karir Programmer Frontend",
+        "url": "https://www.youtube.com/watch?v=XuYZvxMDf9E",
+        "description": "PODCAST WEB PROGRAMMER Sharing Session Experience As A Developer.",
+        "keywords": [
+            "podcast"
+        ],
+        "categories": [
+            "Podcast",
+            "Sharing Experience"
         ]
     },
     {
@@ -284,6 +396,19 @@
         ],
         "description": "Hi guys, di video kali ini, kita akan bahas tentang materi HTML Dasar. Ini adalah materi awal untuk teman-teman yang mau belajar menjadi Web Developer",
         "url": "https://www.youtube.com/watch?v=hMDJyb7VkYw"
+    },
+    {
+        "name": "Tutorial Next JS Bahasa Indonesia Intro",
+        "categories": [
+            "Next.js",
+            "Frontend Development"
+        ],
+        "keywords": [
+            "tutorials",
+            "nextjs"
+        ],
+        "description": "Pada video ini kita akan memulai sebuah series baru yaitu Next.js.",
+        "url": "https://www.youtube.com/watch?v=zw5wKyqDEUc&list=PLmF_zPV9ZcP2aYRuoEsMla5gqNjxP-V20"
     },
     {
         "name": "Tutorial TypeScript Dasar (Bahasa Indonesia)",

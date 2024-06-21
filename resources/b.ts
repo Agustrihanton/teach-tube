@@ -67,4 +67,13 @@ export const resources: Resource[] = [
     url:
       "https://www.youtube.com/watch?v=rbTEOOucUOs&list=PLCZlgfAG0GXAvVZ1Wb1D7HVAPNJGk4f-G",
   },
+  {
+    name: "Build and Deploy a Saas Podcast Platform in Next.js",
+    categories: ["Project Based Learning (PBL)", "Frontend Development"],
+    keywords: ["css", "fullstack"],
+    description:
+      "Build a unique Software-as-a-Service app with AI-powered features like text-to-multiple-voices functionality and AI-generated images with Next.js 14 and Convex.",
+    url: "https://www.youtube.com/watch?v=zfAb95tJvZQ",
+  },
 ];
+// https://www.youtube.com/watch?v=zfAb95tJvZQ

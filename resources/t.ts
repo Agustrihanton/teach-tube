@@ -45,4 +45,13 @@ export const resources: Resource[] = [
       "Let's explore a free open-source UI library that replicates advanced animations found on the landing pages of top-tier startups. Learn how to code advanced components in React and other JavaScript frameworks. ",
     url: "https://www.youtube.com/watch?v=RPa3_AD1_Vs",
   },
+  {
+    name: "Tutorial Next JS Bahasa Indonesia Intro",
+    categories: ["Next.js", "Frontend Development"],
+    keywords: ["tutorials", "nextjs"],
+    description:
+      "Pada video ini kita akan memulai sebuah series baru yaitu Next.js.",
+    url:
+      "https://www.youtube.com/watch?v=zw5wKyqDEUc&list=PLmF_zPV9ZcP2aYRuoEsMla5gqNjxP-V20",
+  },
 ];

@@ -25,4 +25,12 @@ export const resources: Resource[] = [
     keywords: ["tutorials", "swr"],
     categories: ["Next.js", "Web Development", "Frontend Development"],
   },
+  {
+    name: "Sharing Session Experience: 4 Tahun Karir Programmer Frontend",
+    url: "https://www.youtube.com/watch?v=XuYZvxMDf9E",
+    description:
+      "PODCAST WEB PROGRAMMER Sharing Session Experience As A Developer.",
+    keywords: ["podcast"],
+    categories: ["Podcast", "Sharing Experience"],
+  },
 ];

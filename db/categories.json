@@ -1,5 +1,5 @@
 {
-"count": 17,
+"count": 18,
 "data": [
     {
         "name": "Backend Development",
@@ -52,6 +52,10 @@
     {
         "name": "Project Based Learning (PBL)",
         "slug": "project-based-learning-pbl-"
+    },
+    {
+        "name": "React",
+        "slug": "react"
     },
     {
         "name": "Sharing Experience",

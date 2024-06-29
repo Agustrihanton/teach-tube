@@ -1,6 +1,17 @@
 {
-"count": 32,
+"count": 36,
 "data": [
+    {
+        "name": "01 - Implementing Clean Architecture in Next.js",
+        "url": "https://www.youtube.com/watch?v=BaUsKK6AX5Q",
+        "description": "This is the start of my 'how to implement clean architecture in Next.js' series where we refactor a Next.js 14 app built with server actions and implement a layered architecture to make the whole app more modular, easier to refactor, and also testable!",
+        "categories": [
+            "Next.js"
+        ],
+        "keywords": [
+            "clean architecture"
+        ]
+    },
     {
         "name": "1. Apa itu Tailwind CSS? | Belajar Tailwind CSS",
         "url": "https://www.youtube.com/watch?v=z3slaXqmkT0",
@@ -157,7 +168,18 @@
             "cms"
         ],
         "description": "Sanity.io https://bit.ly/39lJ553 is the platform for structured content. The Content Lake, a real-time document store, gives you complete access and control over your content at any time and anywhere:",
-        "url": "https://www.youtube.com/watch?v=c_8cplBi_gE&t=349s"
+        "url": "https://www.youtube.com/watch?v=c_8cplBi_gE"
+    },
+    {
+        "name": "CSS 101 Crash Course: Beginner’s Guide to Web Design (8 Hours!)",
+        "categories": [
+            "CSS"
+        ],
+        "keywords": [
+            "crash course"
+        ],
+        "description": "Full CSS 101 Crash Course. In this 8-hour course, you'll learn the fundamentals of CSS as well as lay the groundwork for advanced styling used by top developers. Become a CSS Pro and never create an ugly website again 💪.",
+        "url": "https://www.youtube.com/watch?v=impqUbJdkgM"
     },
     {
         "name": "CSS GRID | #1 Apa itu CSS GRID?",
@@ -182,6 +204,18 @@
         ],
         "description": "Data structures and algorithms tutorial #1 - let's go!",
         "url": "https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H"
+    },
+    {
+        "name": "Full-Stack Social Media App Tutorial with React 19 & Next.js 15 & MySql | React Next.js Full Course",
+        "categories": [
+            "Next.js",
+            "Project Based Learning (PBL)"
+        ],
+        "keywords": [
+            "fullstack"
+        ],
+        "description": "Next.js 15 full stack app project. Complete social media application tutorial with the new React 19 features. useOptimistic, useActionState, and more.",
+        "url": "https://www.youtube.com/watch?v=o080tU3sd0k"
     },
     {
         "name": "Inggriani Liem (Bu Inge) - Computational Thinking | BukaTalks",
@@ -260,6 +294,19 @@
         ],
         "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.",
         "url": "https://www.youtube.com/watch?v=5KiXPIj5Kes"
+    },
+    {
+        "name": "Pathfinding Visualizer | React + TypeScript + Tailwind | Portfolio Project",
+        "categories": [
+            "React",
+            "TypeScript",
+            "Project Based Learning (PBL)"
+        ],
+        "keywords": [
+            "portofolio"
+        ],
+        "description": "Tutorial that goes through every step to create a Pathfinding Visualizer from scratch that includes: Pathfinding Algorithms: Dijkstra, A*, BFS, DFS, Maze algorithms: Recursive Division, Binary Tree",
+        "url": "https://www.youtube.com/watch?v=fLpvgCVYjTo"
     },
     {
         "name": "Portofolio yang Bagus untuk Programmer",

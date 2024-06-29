@@ -12,7 +12,7 @@ The /db folder will be updated upon merge request. -->
 </div> 
 
  ## Index
-<li><a href="#backend-development">Backend Development</a></li><li><a href="#core-web-vitals">Core Web Vitals</a></li><li><a href="#css">CSS</a></li><li><a href="#css-framework">CSS Framework</a></li><li><a href="#css-trends">CSS Trends</a></li><li><a href="#data-structure-and-algorithm">Data Structure and Algorithm</a></li><li><a href="#frontend-development">Frontend Development</a></li><li><a href="#headless-cms">Headless CMS</a></li><li><a href="#javascript">JavaScript</a></li><li><a href="#next-js">Next.js</a></li><li><a href="#podcast">Podcast</a></li><li><a href="#programming-languages">Programming Languages</a></li><li><a href="#project-based-learning-pbl-">Project Based Learning (PBL)</a></li><li><a href="#sharing-experience">Sharing Experience</a></li><li><a href="#typescript">TypeScript</a></li><li><a href="#ui-kit">UI Kit</a></li><li><a href="#web-development">Web Development</a></li> 
+<li><a href="#backend-development">Backend Development</a></li><li><a href="#core-web-vitals">Core Web Vitals</a></li><li><a href="#css">CSS</a></li><li><a href="#css-framework">CSS Framework</a></li><li><a href="#css-trends">CSS Trends</a></li><li><a href="#data-structure-and-algorithm">Data Structure and Algorithm</a></li><li><a href="#frontend-development">Frontend Development</a></li><li><a href="#headless-cms">Headless CMS</a></li><li><a href="#javascript">JavaScript</a></li><li><a href="#next-js">Next.js</a></li><li><a href="#podcast">Podcast</a></li><li><a href="#programming-languages">Programming Languages</a></li><li><a href="#project-based-learning-pbl-">Project Based Learning (PBL)</a></li><li><a href="#react">React</a></li><li><a href="#sharing-experience">Sharing Experience</a></li><li><a href="#typescript">TypeScript</a></li><li><a href="#ui-kit">UI Kit</a></li><li><a href="#web-development">Web Development</a></li> 
 
 
 
@@ -36,6 +36,7 @@ The /db folder will be updated upon merge request. -->
 | Thumbnail | Name | Description | Keywords |
 |---|---|---|---|
  <img src=https://i3.ytimg.com/vi/rbTEOOucUOs/maxresdefault.jpg alt=rbTEOOucUOs width="240px" height="90px"/> | [Belajar CSS untuk pemula - intro](https://www.youtube.com/watch?v=rbTEOOucUOs&list=PLCZlgfAG0GXAvVZ1Wb1D7HVAPNJGk4f-G) | Belajar CSS untuk pemula | css |
+ <img src=https://i3.ytimg.com/vi/impqUbJdkgM/maxresdefault.jpg alt=impqUbJdkgM width="240px" height="90px"/> | [CSS 101 Crash Course: Beginner’s Guide t...](https://www.youtube.com/watch?v=impqUbJdkgM) | Full CSS 101 Crash Course. In this 8-hour course, you'll lea... | crash course |
  <img src=https://i3.ytimg.com/vi/qCMLP6GtyBc/maxresdefault.jpg alt=qCMLP6GtyBc width="240px" height="90px"/> | [CSS GRID | #1 Apa itu CSS GRID?](https://www.youtube.com/watch?v=qCMLP6GtyBc&list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) | Kali ini kita akan memulai seri baru mengenai CSS GRID, dan ... | grid, css |
 
 **[⬆ Back to Index](#index)**
@@ -88,7 +89,7 @@ The /db folder will be updated upon merge request. -->
 ### <a name="headless-cms">Headless CMS</a>
 | Thumbnail | Name | Description | Keywords |
 |---|---|---|---|
- <img src=https://i3.ytimg.com/vi/c_8cplBi_gE/maxresdefault.jpg alt=c_8cplBi_gE width="240px" height="90px"/> | [Content Platforms Explained in 100 Secon...](https://www.youtube.com/watch?v=c_8cplBi_gE&t=349s) | Sanity.io https://bit.ly/39lJ553 is the platform for structu... | cms |
+ <img src=https://i3.ytimg.com/vi/c_8cplBi_gE/maxresdefault.jpg alt=c_8cplBi_gE width="240px" height="90px"/> | [Content Platforms Explained in 100 Secon...](https://www.youtube.com/watch?v=c_8cplBi_gE) | Sanity.io https://bit.ly/39lJ553 is the platform for structu... | cms |
 
 **[⬆ Back to Index](#index)**
 
@@ -104,9 +105,11 @@ The /db folder will be updated upon merge request. -->
 ### <a name="next-js">Next.js</a>
 | Thumbnail | Name | Description | Keywords |
 |---|---|---|---|
+ <img src=https://i3.ytimg.com/vi/BaUsKK6AX5Q/maxresdefault.jpg alt=BaUsKK6AX5Q width="240px" height="90px"/> | [01 - Implementing Clean Architecture in ...](https://www.youtube.com/watch?v=BaUsKK6AX5Q) | This is the start of my 'how to implement clean architecture... | clean architecture |
  <img src=https://i3.ytimg.com/vi/hhudoSMM0yU/maxresdefault.jpg alt=hhudoSMM0yU width="240px" height="90px"/> | [Admin Dashboard From Scratch - Next.js, ...](https://www.youtube.com/watch?v=hhudoSMM0yU) | In this video, we will build a dashboard interface from scra... | shadcn ui, fullstack, recharts |
  <img src=https://i3.ytimg.com/vi/SG82Aqcaaa0/maxresdefault.jpg alt=SG82Aqcaaa0 width="240px" height="90px"/> | [Build a Complete E-Commerce Shop with Ne...](https://www.youtube.com/watch?v=SG82Aqcaaa0) | In this single video, we're building an entire, modern E-Com... | ecommerce, fullstack |
  <img src=https://i3.ytimg.com/vi/N_uNKAus0II/maxresdefault.jpg alt=N_uNKAus0II width="240px" height="90px"/> | [Build a Finance SaaS Platform With Nextj...](https://www.youtube.com/watch?v=N_uNKAus0II) | In this 11 hour tutorial, you will learn how to create your ... | sass, fullstack |
+ <img src=https://i3.ytimg.com/vi/o080tU3sd0k/maxresdefault.jpg alt=o080tU3sd0k width="240px" height="90px"/> | [Full-Stack Social Media App Tutorial wit...](https://www.youtube.com/watch?v=o080tU3sd0k) | Next.js 15 full stack app project. Complete social media app... | fullstack |
  <img src=https://i3.ytimg.com/vi/uZQ5d2bRMO4/maxresdefault.jpg alt=uZQ5d2bRMO4 width="240px" height="90px"/> | [Internationalization in NextJs 14 with N...](https://www.youtube.com/watch?v=uZQ5d2bRMO4) | In this video, we will explore the implementation of next-in... | i18n, locale, multi language, Internationalization |
  <img src=https://i3.ytimg.com/vi/fKaJYydim3Q/maxresdefault.jpg alt=fKaJYydim3Q width="240px" height="90px"/> | [NextJS APP Router | i18n Internationaliz...](https://www.youtube.com/watch?v=fKaJYydim3Q) | If you have been searching youtube for tutorials on i18next ... | i18n, locale, multi language, Internationalization |
  <img src=https://i3.ytimg.com/vi/3e-higRXoaM/maxresdefault.jpg alt=3e-higRXoaM width="240px" height="90px"/> | [React Query Tutorial V5 - Full Tanstack ...](https://www.youtube.com/watch?v=3e-higRXoaM) | In this tutorial, you will learn everything related to TanSt... | tutorials, react-query |
@@ -140,6 +143,15 @@ The /db folder will be updated upon merge request. -->
  <img src=https://i3.ytimg.com/vi/SG82Aqcaaa0/maxresdefault.jpg alt=SG82Aqcaaa0 width="240px" height="90px"/> | [Build a Complete E-Commerce Shop with Ne...](https://www.youtube.com/watch?v=SG82Aqcaaa0) | In this single video, we're building an entire, modern E-Com... | ecommerce, fullstack |
  <img src=https://i3.ytimg.com/vi/N_uNKAus0II/maxresdefault.jpg alt=N_uNKAus0II width="240px" height="90px"/> | [Build a Finance SaaS Platform With Nextj...](https://www.youtube.com/watch?v=N_uNKAus0II) | In this 11 hour tutorial, you will learn how to create your ... | sass, fullstack |
  <img src=https://i3.ytimg.com/vi/zfAb95tJvZQ/maxresdefault.jpg alt=zfAb95tJvZQ width="240px" height="90px"/> | [Build and Deploy a Saas Podcast Platform...](https://www.youtube.com/watch?v=zfAb95tJvZQ) | Build a unique Software-as-a-Service app with AI-powered fea... | css, fullstack |
+ <img src=https://i3.ytimg.com/vi/o080tU3sd0k/maxresdefault.jpg alt=o080tU3sd0k width="240px" height="90px"/> | [Full-Stack Social Media App Tutorial wit...](https://www.youtube.com/watch?v=o080tU3sd0k) | Next.js 15 full stack app project. Complete social media app... | fullstack |
+ <img src=https://i3.ytimg.com/vi/fLpvgCVYjTo/maxresdefault.jpg alt=fLpvgCVYjTo width="240px" height="90px"/> | [Pathfinding Visualizer | React + TypeScr...](https://www.youtube.com/watch?v=fLpvgCVYjTo) | Tutorial that goes through every step to create a Pathfindin... | portofolio |
+
+**[⬆ Back to Index](#index)**
+
+### <a name="react">React</a>
+| Thumbnail | Name | Description | Keywords |
+|---|---|---|---|
+ <img src=https://i3.ytimg.com/vi/fLpvgCVYjTo/maxresdefault.jpg alt=fLpvgCVYjTo width="240px" height="90px"/> | [Pathfinding Visualizer | React + TypeScr...](https://www.youtube.com/watch?v=fLpvgCVYjTo) | Tutorial that goes through every step to create a Pathfindin... | portofolio |
 
 **[⬆ Back to Index](#index)**
 
@@ -158,6 +170,7 @@ The /db folder will be updated upon merge request. -->
 ### <a name="typescript">TypeScript</a>
 | Thumbnail | Name | Description | Keywords |
 |---|---|---|---|
+ <img src=https://i3.ytimg.com/vi/fLpvgCVYjTo/maxresdefault.jpg alt=fLpvgCVYjTo width="240px" height="90px"/> | [Pathfinding Visualizer | React + TypeScr...](https://www.youtube.com/watch?v=fLpvgCVYjTo) | Tutorial that goes through every step to create a Pathfindin... | portofolio |
  <img src=https://i3.ytimg.com/vi/C_C64faSO4c/maxresdefault.jpg alt=C_C64faSO4c width="240px" height="90px"/> | [Tutorial TypeScript Dasar (Bahasa Indone...](https://www.youtube.com/watch?v=C_C64faSO4c) | Hi teman-teman, di video ini kita akan bahas tentang dasar-d... | typescript, javascript |
 
 **[⬆ Back to Index](#index)**

@@ -54,4 +54,13 @@ export const resources: Resource[] = [
     url:
       "https://www.youtube.com/watch?v=zw5wKyqDEUc&list=PLmF_zPV9ZcP2aYRuoEsMla5gqNjxP-V20",
   },
+  {
+    name: "The Four Levels of Caching in Next.js",
+    categories: ["Next.js", "Frontend Development"],
+    keywords: ["caching", "nextjs"],
+    description:
+      "🚀FREE 2024 Next.js Visual CheatSheet: https://bit.ly/nextjs-visual-cheatsheet.",
+    url: "https://www.youtube.com/watch?v=u8cWfYKAarg",
+  },
+  //
 ];

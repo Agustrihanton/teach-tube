@@ -1,5 +1,5 @@
 {
-"count": 36,
+"count": 39,
 "data": [
     {
         "name": "01 - Implementing Clean Architecture in Next.js",
@@ -132,6 +132,33 @@
         ],
         "description": "In this 11 hour tutorial, you will learn how to create your very own Finance SaaS Platform with ability to track your income and expenses, categorize transactions and assign them to specific accounts, as well as how to import transactions using a CSV file, connect to your bank account using Plaid, and monetize this product using Lemon Squeezy.",
         "url": "https://www.youtube.com/watch?v=N_uNKAus0II"
+    },
+    {
+        "name": "Build and Deploy a Full Stack AI Todoist Clone: Next.js, Convex & TypeScript",
+        "categories": [
+            "Frontend Development",
+            "Project Based Learning (PBL)"
+        ],
+        "keywords": [
+            "javascript",
+            "frontend developer",
+            "typescript"
+        ],
+        "description": "Hi all 👋 In this 7 hour tutorial, you will learn how to create an end-to-end full stack Todoist clone, ",
+        "url": "https://www.youtube.com/watch?v=dVN_zN1hZI8"
+    },
+    {
+        "name": "Build and Deploy a Patient Management System with Next.js | Twilio, TypeScript, TailwindCSS",
+        "categories": [
+            "Project Based Learning (PBL)",
+            "Frontend Development"
+        ],
+        "keywords": [
+            "css",
+            "fullstack"
+        ],
+        "description": "Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.",
+        "url": "https://www.youtube.com/watch?v=lEflo_sc82g"
     },
     {
         "name": "Build and Deploy a Saas Podcast Platform in Next.js",
@@ -387,6 +414,19 @@
             "Web Development",
             "Frontend Development"
         ]
+    },
+    {
+        "name": "The Four Levels of Caching in Next.js",
+        "categories": [
+            "Next.js",
+            "Frontend Development"
+        ],
+        "keywords": [
+            "caching",
+            "nextjs"
+        ],
+        "description": "🚀FREE 2024 Next.js Visual CheatSheet: https://bit.ly/nextjs-visual-cheatsheet.",
+        "url": "https://www.youtube.com/watch?v=u8cWfYKAarg"
     },
     {
         "name": "The ultimate guide to web performance",

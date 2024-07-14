@@ -10,6 +10,15 @@ export const resources: Resource[] = [
     url: "https://www.youtube.com/watch?v=mD6uSGSjgr4",
   },
   {
+    name:
+      "Build and Deploy a Full Stack AI Todoist Clone: Next.js, Convex & TypeScript",
+    categories: ["Frontend Development", "Project Based Learning (PBL)"],
+    keywords: ["javascript", "frontend developer", "typescript"],
+    description:
+      "Hi all 👋 In this 7 hour tutorial, you will learn how to create an end-to-end full stack Todoist clone, ",
+    url: "https://www.youtube.com/watch?v=dVN_zN1hZI8",
+  },
+  {
     name: "Bagaimana Menguasai Banyak Bahasa Pemrograman",
     categories: ["Programming Languages", "Sharing Experience"],
     keywords: ["programmer zaman now", "master of language"],
@@ -75,5 +84,13 @@ export const resources: Resource[] = [
       "Build a unique Software-as-a-Service app with AI-powered features like text-to-multiple-voices functionality and AI-generated images with Next.js 14 and Convex.",
     url: "https://www.youtube.com/watch?v=zfAb95tJvZQ",
   },
+  {
+    name:
+      "Build and Deploy a Patient Management System with Next.js | Twilio, TypeScript, TailwindCSS",
+    categories: ["Project Based Learning (PBL)", "Frontend Development"],
+    keywords: ["css", "fullstack"],
+    description:
+      "Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.",
+    url: "https://www.youtube.com/watch?v=lEflo_sc82g",
+  },
 ];
-// https://www.youtube.com/watch?v=zfAb95tJvZQ
